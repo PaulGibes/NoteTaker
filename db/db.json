@@ -1,6 +1,12 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Test Note",
+        "text": "This is a test note",
+        "id": "80b7af7c-6594-42f2-add1-213bad510546"
+    },
+    {
+        "title": "In Case",
+        "text": "just to test the behavior of prepopulated notes when you clone the repo",
+        "id": "9f71172c-722a-440e-abfb-ea2798d396f2"
     }
 ]
